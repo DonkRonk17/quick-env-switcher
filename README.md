@@ -394,9 +394,11 @@ It helps others discover the tool and motivates continued development.
 
 ---
 
-## 🙏 Acknowledgments
+## 🙏 Credits
 
-Built by Randell Logan Smith and Team Brain with ❤️ to solve the daily pain of switching between projects.
+Created by **Randell Logan Smith and Team Brain** at [Metaphy LLC](https://metaphysicsandcomputing.com)
+
+Part of the HMSS (Heavenly Morning Star System) ecosystem.
 
 ---
 
