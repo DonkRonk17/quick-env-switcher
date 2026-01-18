@@ -396,7 +396,7 @@ It helps others discover the tool and motivates continued development.
 
 ## 🙏 Acknowledgments
 
-Built with ❤️ to solve the daily pain of switching between projects.
+Built by Randell Logan Smith and Team Brain with ❤️ to solve the daily pain of switching between projects.
 
 ---
 
