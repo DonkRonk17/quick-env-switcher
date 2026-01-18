@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2b85f77c-fb99-4810-94bc-6c2cc222b9ca" />
+
 # 🔄 Quick Environment Switcher
 
 **Instantly switch between project environments with a single command.**
@@ -353,6 +355,9 @@ python envswitch.py switch myproject | Invoke-Expression
 Environment variables only last for the current shell session. To persist them, add them to your shell profile or use system environment variables.
 
 ---
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/19067f40-6bcf-4d1d-9167-7831348df63d" />
+
 
 ## 🤝 Contributing
 
